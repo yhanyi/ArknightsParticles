@@ -16,15 +16,15 @@ To run this on your local machine,
 ```bash
 git clone git@github.com:yhanyi/arknghts-particles.git
 ```
-1. Navigate to the project folder.
+2. Navigate to the project folder.
 ```bash
 cd arknights-particles
 ```
-1. Install all packages/dependencies.
+3. Install all packages/dependencies.
 ```bash
 npm install
 ```
-1. Optional: If you would like to individually download the packages/dependencies.
+4. Optional: If you would like to individually download the packages/dependencies.
 ```bash
 npm install raw-loader glslify-loader --save-dev
 
